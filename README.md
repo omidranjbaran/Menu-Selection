@@ -1,3 +1,8 @@
+# Menu-Selection
+Explore a variety of delicious dishes crafted to satisfy every craving. From savory starters to sweet treats, we’ve got something for everyone!
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
