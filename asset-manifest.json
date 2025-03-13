@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sabzlearn-react-app/static/css/main.30433649.css",
+    "main.js": "/sabzlearn-react-app/static/js/main.3b4ada2e.js",
+    "index.html": "/sabzlearn-react-app/index.html",
+    "main.30433649.css.map": "/sabzlearn-react-app/static/css/main.30433649.css.map",
+    "main.3b4ada2e.js.map": "/sabzlearn-react-app/static/js/main.3b4ada2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30433649.css",
+    "static/js/main.3b4ada2e.js"
+  ]
+}
